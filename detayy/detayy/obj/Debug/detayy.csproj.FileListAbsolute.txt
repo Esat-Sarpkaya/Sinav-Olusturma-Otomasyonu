@@ -1,0 +1,34 @@
+C:\Users\Enver Efe\Desktop\detayy\detayy\bin\Debug\detayy.exe.config
+C:\Users\Enver Efe\Desktop\detayy\detayy\bin\Debug\detayy.exe
+C:\Users\Enver Efe\Desktop\detayy\detayy\bin\Debug\detayy.pdb
+C:\Users\Enver Efe\Desktop\detayy\detayy\obj\Debug\detayy.BolumlerForm.resources
+C:\Users\Enver Efe\Desktop\detayy\detayy\obj\Debug\detayy.DerslerForm.resources
+C:\Users\Enver Efe\Desktop\detayy\detayy\obj\Debug\detayy.Form1.resources
+C:\Users\Enver Efe\Desktop\detayy\detayy\obj\Debug\detayy.Form2.resources
+C:\Users\Enver Efe\Desktop\detayy\detayy\obj\Debug\detayy.HocalarForm.resources
+C:\Users\Enver Efe\Desktop\detayy\detayy\obj\Debug\detayy.KonularForm.resources
+C:\Users\Enver Efe\Desktop\detayy\detayy\obj\Debug\detayy.Properties.Resources.resources
+C:\Users\Enver Efe\Desktop\detayy\detayy\obj\Debug\detayy.SinavOlustur.resources
+C:\Users\Enver Efe\Desktop\detayy\detayy\obj\Debug\detayy.csproj.GenerateResource.Cache
+C:\Users\Enver Efe\Desktop\detayy\detayy\obj\Debug\detayy.exe
+C:\Users\Enver Efe\Desktop\detayy\detayy\obj\Debug\detayy.pdb
+C:\Users\Enver Efe\Desktop\detayy\detayy\obj\Debug\detayy.SoruOlusturForm.resources
+C:\Users\Enver Efe\Desktop\detayy\detayy\obj\Debug\detayy.csprojResolveAssemblyReference.cache
+C:\Users\Enver Efe\Desktop\detayy\detayy\obj\Debug\detayy.FakulteForm.resources
+C:\Users\Enver Efe\Desktop\detayy\detayy\obj\Debug\detayy.Raporla.resources
+D:\biten 2. sınıf oO\PROJE\detayy\detayy\bin\Debug\detayy.exe.config
+D:\biten 2. sınıf oO\PROJE\detayy\detayy\obj\Debug\detayy.exe
+D:\biten 2. sınıf oO\PROJE\detayy\detayy\obj\Debug\detayy.pdb
+D:\biten 2. sınıf oO\PROJE\detayy\detayy\obj\Debug\detayy.csprojResolveAssemblyReference.cache
+D:\biten 2. sınıf oO\PROJE\detayy\detayy\obj\Debug\detayy.BolumlerForm.resources
+D:\biten 2. sınıf oO\PROJE\detayy\detayy\obj\Debug\detayy.DerslerForm.resources
+D:\biten 2. sınıf oO\PROJE\detayy\detayy\obj\Debug\detayy.FakulteForm.resources
+D:\biten 2. sınıf oO\PROJE\detayy\detayy\obj\Debug\detayy.Form1.resources
+D:\biten 2. sınıf oO\PROJE\detayy\detayy\obj\Debug\detayy.Form2.resources
+D:\biten 2. sınıf oO\PROJE\detayy\detayy\obj\Debug\detayy.HocalarForm.resources
+D:\biten 2. sınıf oO\PROJE\detayy\detayy\obj\Debug\detayy.KonularForm.resources
+D:\biten 2. sınıf oO\PROJE\detayy\detayy\obj\Debug\detayy.Properties.Resources.resources
+D:\biten 2. sınıf oO\PROJE\detayy\detayy\obj\Debug\detayy.Raporla.resources
+D:\biten 2. sınıf oO\PROJE\detayy\detayy\obj\Debug\detayy.SinavOlustur.resources
+D:\biten 2. sınıf oO\PROJE\detayy\detayy\obj\Debug\detayy.SoruOlusturForm.resources
+D:\biten 2. sınıf oO\PROJE\detayy\detayy\obj\Debug\detayy.csproj.GenerateResource.Cache
